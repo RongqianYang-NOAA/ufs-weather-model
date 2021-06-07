@@ -1,3 +1,4 @@
-fv3_ccpp_control
-rst bit
-ci-test-weather
+regional_control
+thr dcp
+cpld_control
+rst
